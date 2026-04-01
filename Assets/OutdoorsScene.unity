@@ -878,7 +878,7 @@ MonoBehaviour:
   sprintSpeed: 13
   crouchSpeed: 3
   jumpHeight: 1.5
-  gravity: -10
+  gravity: -40.42
   crouchHeight: 1
   crouchTransitionSpeed: 10
   stepOffset: 1
